@@ -5,7 +5,8 @@ header{
     position: fixed;
     top: 0;
     left: 0;
-    padding-bottom: 0px;
+    margin-top: -20px;
+    margin-bottom: 0px;
 }
 
 h1{
@@ -17,14 +18,17 @@ h1{
     color: #ffffff;
     float: left;
     margin-left: 100px;
+    margin-bottom: 0px;
 }
 
 #links{
     margin-right: 0;
     right: 0;
     position: fixed;
-    top: 50px;
+    top: 30px;
     right: 120px;
+    margin-bottom: 0px;
+
 }
 
 h2{
@@ -110,4 +114,9 @@ footer{
 
 .form{
     width: 100%;
+}
+
+.images{
+    width: 35%;
+    margin: 10px;
 }
